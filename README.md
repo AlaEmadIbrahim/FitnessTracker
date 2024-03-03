@@ -7,7 +7,6 @@ A simple fitness tracking app to help you stay fit and healthy.
 ![FitnessTracker App Result](./src/images/fitness-tracker.jpg)
 
 ## User Details
-
 - **Weight
 - **Height
 - **Age
@@ -17,12 +16,8 @@ A simple fitness tracking app to help you stay fit and healthy.
 ## Exercise Details
 
 ### Activity 
-
 - **Exercise Time
 - **Break Time
 
 ## Result
-
 Activity Completed
-
-
