@@ -27,7 +27,7 @@ const Details = ({exerciseTime}) => {
 
             <PersonaDetails></PersonaDetails>
 
-            {/* Break time  */}
+           // Break time  
 
             <h3 className='text-2xl font-semibold'>Add a Break:</h3>
             <div className='flex flex-row items-center justify-evenly bg-orange-200 py-4 rounded-md my-3'>
@@ -40,7 +40,7 @@ const Details = ({exerciseTime}) => {
                 }
             </div>
             
-            {/* Exercise details  */}
+          // Exercise details  
 
             <h3 className='text-2xl font-semibold mb-3'>Exercise Details:</h3>
             <div>
